@@ -1,0 +1,23 @@
+{
+  "name": "Text-to-Speech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnifeParty12/Text-to-Speech-Converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnifeParty12/Text-to-Speech-Converter/issues"
+  },
+  "homepage": "https://KnifePart12.github.io/Text-to-Speech-Converter",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
